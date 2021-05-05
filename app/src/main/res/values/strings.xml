@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DependencyInyection1</string>
+    <string name="ejemplo_de_inyecci_n_de_dependencias">Ejemplo de Inyección de dependencias</string>
+</resources>
